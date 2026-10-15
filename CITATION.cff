@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for \"Sociodemographic Disparities and Childhood Correlates of Loneliness Across 22 Countries\""
+type: software
+license: MIT
+authors:
+  - family-names: Shiba
+    given-names: Koichiro
+    affiliation: Boston University School of Public Health
